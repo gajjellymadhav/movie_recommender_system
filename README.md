@@ -56,7 +56,7 @@ The system uses a comprehensive movie dataset containing:
      cd movie_recommender_system
     
 2. **Install dependencies**
-bash
+    ```bash
     pip install -r requirements.txt
    
 4. **Required packages:**
