@@ -60,14 +60,15 @@ The system uses a comprehensive movie dataset containing:
     pip install -r requirements.txt
    
 4. **Required packages:**
-streamlit
-pandas
-scikit-learn
-requests
-pickle (built-in)
+   ```bash
+    streamlit
+    pandas
+    scikit-learn
+    requests
+    pickle (built-in)
 
-5. **Run the application**
-    bash
+6. **Run the application**
+    ```bash
     streamlit run app.py
    
 **The application will open in your default browser at http://localhost:8501**
