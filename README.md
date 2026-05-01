@@ -86,12 +86,4 @@ Replace the API key in app.py line 6
 Python
 url = "https://api.themoviedb.org/3/movie/{}?api_key=YOUR_API_KEY&language=en-US".format(movie_id)
 
-## Example Usage
-Python
-# Select "The Shawshank Redemption"
-# System recommends:
-# 1. The Godfather
-# 2. Schindler's List
-# 3. The Godfather: Part II
-# 4. Spirited Away
-# 5. Your Name.
+
