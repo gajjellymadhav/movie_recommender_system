@@ -42,11 +42,6 @@ The system uses a comprehensive movie dataset containing:
 ### API Integration
 - **The Movie Database (TMDb) API**: For fetching movie posters and metadata
 
-## 📁 Project Structure
-movie_recommender_system/ ├── README.md # Project documentation ├── Main.ipynb # Jupyter notebook with ML pipeline ├── app.py # Streamlit application ├── main.py # Entry point script ├── dataset.csv # Movie dataset (10,000 movies) ├── movies_list.pkl # Serialized movies dataframe ├── similarity.pkl # Precomputed similarity matrix └── frontend/ # Custom React components (carousel) └── public/ └── image-carousel-component
-
-Code
-
 ## 🚀 Getting Started
 
 ### Prerequisites
